@@ -1,0 +1,12 @@
+﻿{
+    "tag":  "main",
+    "session_id":  "1567d9f6-f14d-42ef-abd8-31a7721f30f1",
+    "jsonl":  "C:\\Users\\lacsa\\.claude\\projects\\D--go-data-claude-run-bug706-fiberdraw01-main\\1567d9f6-f14d-42ef-abd8-31a7721f30f1.jsonl",
+    "exit_code":  {
+                      "value":  0,
+                      "PSComputerName":  "localhost",
+                      "RunspaceId":  "a37d25d7-a312-4138-9257-0ea3214b3141",
+                      "PSShowComputerName":  false
+                  },
+    "out":  "D:\\go-data-claude-run\\bug706-fiberdraw01-main\\_claude_main.out.txt"
+}

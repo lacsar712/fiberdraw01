@@ -1,3 +1,5 @@
+基于 Go 实现的光纤拉丝塔调度 Web 项目，一款后端服务，处理炉温拉速设定、出站指令与拉丝批次状态流转。
+
 # FiberDraw Tower
 
 光纤拉丝塔 / 炉温拉速指令扇出投递
@@ -15,4 +17,3 @@ go run ./cmd/seed -db ./data.sqlite
 ```
 
 Open http://127.0.0.1:8080/ for the console.
-
